@@ -1,0 +1,13 @@
+2015-11-14T21:11:19.8326360Z,Updating submodules.,c84c3944-7522-4470-ab1a-55813738068f,0
+2015-11-14T21:11:19.8951611Z,Preparing deployment for commit id '643efb46b7'.,8ff1f5f6-a445-42c9-9e2c-3bf0fefe57d5,0
+2015-11-14T21:11:20.1451689Z,Generating deployment script.,994f48b8-3a9e-414d-81ba-f9309246619d,0
+	2015-11-14T21:11:20.2240629Z,Using the following command to generate deployment script: 'azure site deploymentscript -y --no-dot-deployment -r "D:\home\site\repository" -o "D:\home\site\deployments\tools" --basic --sitePath "D:\home\site\repository"'.,,0
+	2015-11-14T21:11:20.7553473Z,Generating deployment script for Web Site,,0
+	2015-11-14T21:11:20.7709829Z,Generated deployment script files,,0
+2015-11-14T21:11:20.8647243Z,Running deployment command...,43103ec0-a164-4de0-9806-e3e59aa3c94f,0
+	2015-11-14T21:11:20.8647243Z,Command: "D:\home\site\deployments\tools\deploy.cmd",,0
+	2015-11-14T21:11:21.4272422Z,Handling Basic Web Site deployment.,,0
+	2015-11-14T21:11:21.6147651Z,KuduSync.NET from: 'D:\home\site\repository' to: 'D:\home\site\wwwroot',,0
+	2015-11-14T21:11:21.6147651Z,Copying file: 'README.md',,0
+	2015-11-14T21:11:21.6460052Z,Finished successfully.,,0
+2015-11-14T21:11:21.7085088Z,Deployment successful.,2f6777da-ce9a-417d-9e26-61655c16dbec,0

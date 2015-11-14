@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>643efb46b79048a82f65640186f40109ec4ed604</id>
+  <author>Christopher Chen</author>
+  <deployer>GitHub</deployer>
+  <authorEmail>christopher_chen@brown.edu</authorEmail>
+  <message>Initial commit
+</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2015-11-14T21:11:21.7241282Z</lastSuccessEndTime>
+  <receivedTime>2015-11-14T21:11:19.7695343Z</receivedTime>
+  <startTime>2015-11-14T21:11:19.9107885Z</startTime>
+  <endTime>2015-11-14T21:11:21.7241282Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>
